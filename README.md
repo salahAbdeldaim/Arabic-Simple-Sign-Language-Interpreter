@@ -4,7 +4,6 @@
 
 
 
-https://github.com/user-attachments/assets/543bab53-6f0d-4703-b9ac-14f9bef1f828
 
 
 
@@ -59,8 +58,9 @@ The result? A smooth, accurate, and **fully functional Arabic sign language tran
 - Controls:  
   `S` → Toggle writing mode `Backspace` → Delete last letter `C` → Clear all `Q` → Quit
 
-## Demo Video (Coming Soon)
-![Demo GIF]
+## Demo Video
+https://github.com/user-attachments/assets/543bab53-6f0d-4703-b9ac-14f9bef1f828
+
 
 ## Key Insights & Technical Highlights
 
