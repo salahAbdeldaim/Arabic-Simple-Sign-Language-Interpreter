@@ -3,7 +3,9 @@
 ![Project Banner](***Sooooooooon***) 
 
 
-https://github.com/user-attachments/assets/bee2757b-f45e-4f9f-8ae1-df794c576523
+
+https://github.com/user-attachments/assets/543bab53-6f0d-4703-b9ac-14f9bef1f828
+
 
 
 *Real-time Arabic Sign Language letter recognition using MediaPipe and Machine Learning*
