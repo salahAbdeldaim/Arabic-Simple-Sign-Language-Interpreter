@@ -76,9 +76,9 @@ https://github.com/user-attachments/assets/543bab53-6f0d-4703-b9ac-14f9bef1f828
 ```bash
 git clone https://github.com/AbdelazizElbanna/Arabic-Sign-Language-Interpreter.git
 cd Arabic-Sign-Language-Interpreter
-
+```
 ### 2. Install Requirements
 Ensure you have Python installed (3.8 - 3.11 recommended).
 ```bash
 pip install -r requirements.txt
-
+```
