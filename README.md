@@ -11,7 +11,7 @@ Developed by a team of 5 passionate developers and computer vision enthusiasts, 
 - Full Arabic text rendering support (reshaping + bidirectional text)
 - Intuitive user interface with writing mode, space detection, undo, and clear
 
-The result? A smooth, accurate, and **fully functional Arabic sign language translator** that works with any webcam — no additional hardware needed.
+The result? A smooth, accurate, and **fully functional Arabic sign language translator** that works with any webcam - no additional hardware needed.
 
 **Winner potential in accessibility & AI competitions**  
 **Perfect for deaf education, communication tools, and inclusive tech**
