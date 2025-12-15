@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a **complete real-time Arabic Sign Language (ArSL) recognition system** that translates isolated Arabic letters and combined forms (like "ال", "لا", "ة") from hand gestures into written Arabic text — instantly on screen.
+This project is a **complete real-time Arabic Sign Language (ArSL) recognition system** that translates isolated Arabic letters and combined forms (like "ال", "لا", "ة") from hand gestures into written Arabic text - instantly on screen.
 
 Developed by a team of 5 passionate developers and computer vision enthusiasts, this system combines:
 - Hand landmark detection using **Google MediaPipe**
