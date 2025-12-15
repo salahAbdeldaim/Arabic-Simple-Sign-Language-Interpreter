@@ -1,6 +1,5 @@
 # Arabic Simple Sign Language Interpreter (ArSL) - Real-Time Recognition System
 
-![Project Banner](***Sooooooooon***) 
 
 
 
