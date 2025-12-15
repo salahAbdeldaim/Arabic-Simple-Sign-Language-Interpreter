@@ -1,13 +1,6 @@
 # Arabic Simple Sign Language Interpreter (ArSL) - Real-Time Recognition System
 
 
-
-
-
-
-
-*Real-time Arabic Sign Language letter recognition using MediaPipe and Machine Learning*
-
 ## Project Overview
 
 This project is a **complete real-time Arabic Sign Language (ArSL) recognition system** that translates isolated Arabic letters and combined forms (like "ال", "لا", "ة") from hand gestures into written Arabic text - instantly on screen.
