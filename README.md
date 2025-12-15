@@ -20,9 +20,9 @@ The result? A smooth, accurate, and **fully functional Arabic sign language tran
 
 - **Salah AbdEldaim** – [GitHub](https://github.com/salahAbdeldaim)
 - **Abdelaziz El-banna** – [GitHub](https://github.com/AbdelazizElbanna)
-- **[Mohamed Abdelhakeam]** – [GitHub](https://github.com/M7MD4260)
-- **[Tarek Dorgam]** – [GitHub](https://github.com/tarekdorgam127-gif)
-- **[Jana Hazem]** – [GitHub](https://github.com/janahazemothman-coder)
+- **Mohamed Abdelhakeam** – [GitHub](https://github.com/M7MD4260)
+- **Tarek Dorgam** – [GitHub](https://github.com/tarekdorgam127-gif)
+- **Jana Hazem** – [GitHub](https://github.com/janahazemothman-coder)
 
 ## Repository Structure
 
